@@ -5,5 +5,6 @@ int main() {
 	for (i = 3; i >= 0; i--) {
 		printf("%d", i);
 	}
+	int a = 5.14;
 	return 0;
 }
