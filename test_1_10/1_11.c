@@ -14,7 +14,9 @@ int main()
 	//	printf("´ó¶Ë");
 	//}
 	char a = 128;
+
 	printf("%d", a);
+	// -128
 
 	return 0;
 }
